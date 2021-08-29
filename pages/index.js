@@ -7,7 +7,7 @@ export default function Home() {
           <title>Disney +</title>
             <link rel="stylesheet" href="/favicon.ico" />
         </Head>
-        <h1>Disney</h1>
+        <h1>Disney+</h1>
 
       </div>
   )
